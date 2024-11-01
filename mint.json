@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Norbaas",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/logo-norbaas-horizontal-black.svg",
+    "light": "/logo/logo-norbaas-horizontal-white.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Suporte",
       "url": "mailto:hi@mintlify.com"
     }
   ],
@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -50,10 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Inicial",
       "pages": [
-        "introduction",
-        "quickstart",
+        "introdução",
+        "atalhos",
         "development"
       ]
     },
@@ -69,13 +69,13 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Documentação da API",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Endpoint de Exemplos",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
