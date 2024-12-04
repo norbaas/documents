@@ -81,6 +81,14 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Contas",
+      "pages": [
+        "api-reference/accounts/get",
+        "api-reference/accounts/create",
+        "api-reference/accounts/delete"
+      ]
     }
   ],
   "footerSocials": {
