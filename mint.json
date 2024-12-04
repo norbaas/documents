@@ -58,14 +58,15 @@
       ]
     },
     {
-      "group": "Pix",
+      "group": "Basicos",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
+        "essentials/cadastro",
+        "essentials/onboarding",
         "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/documentacao",
+        "essentials/code",
+        "essentials/deploy",
+        "essentials/updates"
       ]
     },
     {
