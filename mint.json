@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Soporte",
+      "name": "Suporte",
       "url": "mailto:ola@norbaas.com.br"
     }
   ],
@@ -35,22 +35,22 @@
     {
       "name": "Documentação",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.norbaas.com.br"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://norbaas.com.br/community"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://norbaas.com.br/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Fluxo inicial",
+      "group": "Basicos",
       "pages": [
         "introduction",
         "quickstart",
@@ -58,12 +58,12 @@
       ]
     },
     {
-      "group": "Basicos",
+      "group": "Fluxos Norbaas",
       "pages": [
         "essentials/cadastro",
+        "essentials/documentacao",
         "essentials/onboarding",
         "essentials/settings",
-        "essentials/documentacao",
         "essentials/code",
         "essentials/deploy",
         "essentials/updates"
