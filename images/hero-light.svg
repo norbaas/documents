@@ -3,134 +3,95 @@
   <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
   <defs>
     <style>
-      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9 {
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
         fill: none;
       }
 
-      .st10 {
-        fill: url(#Gradiente_sem_nome_39);
+      .st9 {
+        fill: #3251e2;
+        fill-opacity: .2;
       }
 
-      .st11 {
+      .st10 {
         fill: url(#Gradiente_sem_nome);
       }
 
+      .st11 {
+        fill: url(#Gradiente_sem_nome_51);
+        stroke: url(#Gradiente_sem_nome_2);
+        stroke-miterlimit: 10;
+      }
+
+      .st11, .st2 {
+        stroke-linecap: round;
+        stroke-width: 46px;
+      }
+
       .st12 {
-        fill: url(#Gradiente_sem_nome_2);
-      }
-
-      .st13 {
-        fill: url(#Gradiente_sem_nome_7);
-      }
-
-      .st14 {
-        fill: url(#Gradiente_sem_nome_44);
-      }
-
-      .st14, .st15, .st16, .st17, .st18 {
-        isolation: isolate;
-      }
-
-      .st14, .st15, .st16, .st18 {
-        mix-blend-mode: hard-light;
-      }
-
-      .st14, .st15, .st18 {
-        fill-opacity: .5;
-      }
-
-      .st15 {
-        fill: url(#Gradiente_sem_nome_18);
-      }
-
-      .st19 {
-        fill-opacity: .5;
-      }
-
-      .st19, .st20 {
         fill: #18e299;
-      }
-
-      .st20 {
-        fill-opacity: .2;
+        fill-opacity: .5;
       }
 
       .st1 {
         stroke-dasharray: 4 4;
       }
 
-      .st1, .st9 {
+      .st1, .st8 {
         stroke: #000;
       }
 
-      .st16 {
-        fill-opacity: .2;
+      .st13 {
+        isolation: isolate;
       }
 
-      .st21 {
+      .st14 {
         fill: #1900f8;
         fill-opacity: .4;
       }
 
-      .st22 {
-        fill: #fff;
+      .st2 {
+        stroke: url(#Gradiente_sem_nome_46);
       }
 
-      .st23 {
+      .st15 {
         opacity: .8;
       }
 
-      .st24 {
+      .st16 {
         opacity: 0;
       }
 
-      .st24, .st25 {
+      .st16, .st17 {
         mix-blend-mode: overlay;
       }
 
-      .st25 {
+      .st17 {
         opacity: .1;
-      }
-
-      .st2 {
-        stroke: url(#Gradiente_sem_nome_4);
-      }
-
-      .st2, .st3, .st4 {
-        stroke-opacity: 0;
-        stroke-width: .5px;
       }
 
       .st3 {
         stroke: url(#Gradiente_sem_nome_9);
+        stroke-opacity: 0;
+        stroke-width: .5px;
       }
 
       .st4 {
-        stroke: url(#Gradiente_sem_nome_6);
-      }
-
-      .st5 {
         stroke: url(#Gradiente_sem_nome_13);
       }
 
-      .st6 {
+      .st5 {
         stroke: url(#Gradiente_sem_nome_12);
       }
 
-      .st7 {
+      .st6 {
         stroke: url(#Gradiente_sem_nome_10);
       }
 
-      .st8 {
+      .st7 {
         stroke: url(#Gradiente_sem_nome_11);
       }
 
-      .st26 {
-        fill: url(#Gradiente_sem_nome_30);
-        fill-opacity: .3;
-      }
-
-      .st27 {
+      .st18 {
         clip-path: url(#clippath);
       }
     </style>
@@ -141,49 +102,9 @@
       <stop offset="0" stop-color="#18e299" stop-opacity="0"/>
       <stop offset=".7" stop-color="#0d9373" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" cx="-605.8" cy="698.1" fx="-605.8" fy="698.1" r="1" gradientTransform="translate(121449.9 97476.9) rotate(-10) scale(169.1 -167.5)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00b0bb"/>
-      <stop offset="1" stop-color="#00db65"/>
-    </radialGradient>
-    <linearGradient id="Gradiente_sem_nome_44" data-name="Gradiente sem nome 44" x1="314.7" y1="225.1" x2="260.5" y2="94.4" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0049ff" stop-opacity=".3"/>
-      <stop offset=".2" stop-color="#0b2ac1" stop-opacity=".6"/>
-      <stop offset=".6" stop-color="#170a80" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#1c006a"/>
-    </linearGradient>
-    <linearGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" x1="311.8" y1="198.3" x2="253.5" y2="97.3" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="Gradiente_sem_nome_39" data-name="Gradiente sem nome 39" cx="-610.1" cy="697.9" fx="-610.1" fy="697.9" r="1" gradientTransform="translate(182350.3 -81709.8) rotate(-75.8) scale(203.6 -223.9)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0bb" stop-opacity=".4"/>
-      <stop offset=".7" stop-color="#0d74ff"/>
-    </radialGradient>
-    <linearGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" x1="308.6" y1="219.8" x2="383.5" y2="120.9" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" cx="-606.5" cy="697.5" fx="-606.5" fy="697.5" r="1" gradientTransform="translate(139259.5 70045.1) rotate(-20.4) scale(174.8 -163.1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00b0bb"/>
-      <stop offset="1" stop-color="#00db65"/>
-    </radialGradient>
-    <linearGradient id="Gradiente_sem_nome_18" data-name="Gradiente sem nome 18" x1="411" y1="142" x2="347.2" y2="47.9" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00b1bc"/>
-      <stop offset="1" stop-color="#0d0055"/>
-    </linearGradient>
     <linearGradient id="Gradiente_sem_nome_9" data-name="Gradiente sem nome 9" x1="395.8" y1="152.2" x2="370.9" y2="50.2" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#000"/>
       <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="Gradiente_sem_nome_30" data-name="Gradiente sem nome 30" x1="-140" y1="213" x2="180" y2="213" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#18e299"/>
-      <stop offset="0" stop-color="#17d89e"/>
-      <stop offset=".2" stop-color="#14a9bb"/>
-      <stop offset=".4" stop-color="#1183d4"/>
-      <stop offset=".5" stop-color="#0f64e6"/>
-      <stop offset=".7" stop-color="#0e4ff4"/>
-      <stop offset=".9" stop-color="#0d42fc"/>
-      <stop offset="1" stop-color="#0d3eff"/>
     </linearGradient>
     <linearGradient id="Gradiente_sem_nome_10" data-name="Gradiente sem nome 10" x1="350" y1="322" x2="350" y2="2" gradientTransform="translate(0 322) scale(1 -1)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#000" stop-opacity="0"/>
@@ -207,80 +128,80 @@
       <stop offset=".5" stop-color="#000"/>
       <stop offset="1" stop-color="#000" stop-opacity=".1"/>
     </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_51" data-name="Gradiente sem nome 51" x1="303.2" y1="157.5" x2="403.4" y2="157.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".8" stop-color="#5e6adf"/>
+      <stop offset="1" stop-color="#fbfbfb"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="353.3" y1="-341" x2="353.3" y2="-486" gradientTransform="translate(0 -256) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".2" stop-color="#5e6adf"/>
+      <stop offset=".9" stop-color="#fbfbfb"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_46" data-name="Gradiente sem nome 46" x1="336.4" y1="-476.9" x2="285.3" y2="-337.6" gradientTransform="translate(0 -256) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#002a94"/>
+      <stop offset=".5" stop-color="#8b93e9"/>
+      <stop offset=".8" stop-color="#4e5bdd"/>
+    </linearGradient>
   </defs>
-  <g class="st17">
+  <g class="st13">
     <g id="Camada_1">
-      <g class="st27">
+      <g class="st18">
         <g>
-          <rect class="st11" width="700" height="320" rx="16" ry="16"/>
-          <path class="st22" d="M311.9,247.3c-28.8,0-53.7-15.8-65.6-45.7-11.9-29.8-8.3-67.1,7.1-100.5,28.8,0,53.7,15.8,65.6,45.7,11.9,29.8,8.3,67.1-7.1,100.5Z"/>
-          <path class="st12" d="M311.9,247.3c-28.8,0-53.7-15.8-65.6-45.7-11.9-29.8-8.3-67.1,7.1-100.5,28.8,0,53.7,15.8,65.6,45.7,11.9,29.8,8.3,67.1-7.1,100.5Z"/>
-          <path class="st18" d="M311.9,247.3c-28.8,0-53.7-15.8-65.6-45.7-11.9-29.8-8.3-67.1,7.1-100.5,28.8,0,53.7,15.8,65.6,45.7,11.9,29.8,8.3,67.1-7.1,100.5Z"/>
-          <path class="st14" d="M311.9,247.3c-28.8,0-53.7-15.8-65.6-45.7-11.9-29.8-8.3-67.1,7.1-100.5,28.8,0,53.7,15.8,65.6,45.7,11.9,29.8,8.3,67.1-7.1,100.5Z"/>
-          <path class="st2" d="M311.7,247c-28.6-.1-53.3-15.8-65.2-45.5-11.9-29.7-8.3-66.8,7-100.2,28.6.1,53.3,15.8,65.2,45.5,11.9,29.7,8.3,66.8-7,100.2Z"/>
-          <path class="st22" d="M305.8,247.2c38.1-9.8,71.3-36.6,87.7-75.5,16.4-39,12.4-81.4-7.2-115.4-38.1,9.8-71.3,36.6-87.7,75.5-16.4,39-12.4,81.4,7.2,115.4Z"/>
-          <path class="st10" d="M305.8,247.2c38.1-9.8,71.3-36.6,87.7-75.5,16.4-39,12.4-81.4-7.2-115.4-38.1,9.8-71.3,36.6-87.7,75.5-16.4,39-12.4,81.4,7.2,115.4Z"/>
-          <path class="st4" d="M393.3,171.5c-16.4,38.8-49.5,65.6-87.4,75.3-19.5-33.9-23.5-76.2-7.1-115,16.4-38.8,49.5-65.6,87.4-75.3,19.5,33.9,23.5,76.2,7.1,115Z"/>
-          <path class="st22" d="M305.7,247c24.1,19.1,56.3,25.8,88,15.1,31.7-10.7,55.8-36.4,67.4-67.6-24.1-19.1-56.3-25.8-88-15.1-31.7,10.7-55.8,36.4-67.4,67.6Z"/>
-          <path class="st13" d="M305.7,247c24.1,19.1,56.3,25.8,88,15.1,31.7-10.7,55.8-36.4,67.4-67.6-24.1-19.1-56.3-25.8-88-15.1-31.7,10.7-55.8,36.4-67.4,67.6Z"/>
-          <path class="st16" d="M305.7,247c24.1,19.1,56.3,25.8,88,15.1,31.7-10.7,55.8-36.4,67.4-67.6-24.1-19.1-56.3-25.8-88-15.1-31.7,10.7-55.8,36.4-67.4,67.6Z"/>
-          <path class="st15" d="M305.7,247c24.1,19.1,56.3,25.8,88,15.1,31.7-10.7,55.8-36.4,67.4-67.6-24.1-19.1-56.3-25.8-88-15.1-31.7,10.7-55.8,36.4-67.4,67.6Z"/>
+          <rect class="st10" width="700" height="320" rx="16" ry="16"/>
           <path class="st3" d="M393.6,261.9c-31.6,10.7-63.6,4-87.6-15,11.5-31,35.6-56.6,67.1-67.2,31.6-10.7,63.6-4,87.6,15-11.5,31-35.6,56.6-67.1,67.2Z"/>
-          <g class="st23">
-            <circle class="st21" cx="660" cy="-60" r="160"/>
+          <circle class="st14" cx="660" cy="-60" r="160"/>
+          <g class="st15">
+            <circle class="st12" cx="660" cy="480" r="160"/>
           </g>
-          <g class="st23">
-            <circle class="st26" cx="20" cy="213" r="160"/>
+          <g class="st15">
+            <circle class="st9" cx="20" cy="413" r="160"/>
           </g>
-          <g class="st23">
-            <circle class="st19" cx="660" cy="480" r="160"/>
-          </g>
-          <g class="st23">
-            <circle class="st20" cx="20" cy="413" r="160"/>
-          </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M0,50h700"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M0,82h700"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M239,0v320"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M271,0v320"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M461,0v320"/>
           </g>
-          <g class="st25">
-            <path class="st7" d="M350,0v320"/>
+          <g class="st17">
+            <path class="st6" d="M350,0v320"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M429,0v320"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M0,271h700"/>
           </g>
-          <g class="st25">
+          <g class="st17">
             <path class="st1" d="M0,239h700"/>
           </g>
-          <g class="st25">
-            <path class="st8" d="M0,160h700"/>
+          <g class="st17">
+            <path class="st7" d="M0,160h700"/>
           </g>
-          <g class="st25">
-            <path class="st6" d="M511-1L189,321"/>
+          <g class="st17">
+            <path class="st5" d="M511-1L189,321"/>
           </g>
-          <g class="st25">
-            <path class="st5" d="M511,321L189-1"/>
+          <g class="st17">
+            <path class="st4" d="M511,321L189-1"/>
           </g>
-          <g class="st24">
-            <circle class="st9" cx="350" cy="160" r="111"/>
+          <g class="st16">
+            <circle class="st8" cx="350" cy="160" r="111"/>
           </g>
-          <g class="st24">
-            <circle class="st9" cx="350" cy="160" r="79"/>
+          <g class="st16">
+            <circle class="st8" cx="350" cy="160" r="79"/>
           </g>
         </g>
+      </g>
+      <g>
+        <path class="st11" d="M303.2,84.8c68.3,13.5,33,123.2,100.2,145.4"/>
+        <path class="st2" d="M295.3,228.6l49.9-103.7"/>
       </g>
     </g>
   </g>
