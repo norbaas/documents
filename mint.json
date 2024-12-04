@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Developer Kit",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Soporte",
+      "url": "mailto:ola@norbaas.com.br"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dash.norbaas.com.br"
   },
   "tabs": [
     {
@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Pix",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Documentação API",
       "pages": [
         "api-reference/introduction"
       ]
