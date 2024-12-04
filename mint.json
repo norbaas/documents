@@ -75,7 +75,7 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Pix",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
